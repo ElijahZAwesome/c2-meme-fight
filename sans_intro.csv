@@ -1,40 +1,148 @@
-0,SansAnimation,,,,,,,,
-0,SansHead,ClosedEyes,,,,,,,
-0,SansText,ready?,,,,,,,
-0,BlackScreen,1,,,,,,,
-0,Sound,Flash,,,,,,,
-0.06666,BlackScreen,0,,,,,,,
-0,Sound,Flash,,,,,,,
-0,CombatZoneResizeInstant,239,226,404,391,,,,
-0,HeartTeleport,320,304,,,,,,
-0,HeartMode,0,,,,,,,
-0,SansBody,HandDown,,,,,,,
-0,SansHead,BlueEye,,,,,,,
-0,Sound,GasterBlaster,1.4,,,,,,
-0.26666,SansSlam,1,,,,,,,
-0.5,SansBody,HandUp,,,,,,,
-0,SansHead,NoEyes,,,,,,,
-0,BoneStab,1,54,0.16666,1,,,,
-0.7,HeartMode,0,,,,,,,
-0,SansBody,HandRight,,,,,,,
-0,Sound,Ding,,,,,,,
-0.4,Sound,GasterBlaster,1.4,,,,,,
-0.4,SineBones,20,-24,360,25,,,,
-1.1,SansAnimation,,,,,,,,
-0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
-0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
-0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
-0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
-0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
-0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
-0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
-0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
-0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
-0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
-0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
-0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-3,SansHead,Default,,,,,,,
-0,SansText,here we go.,,,,,,,
-0,EndAttack,,,,,,,,
+{\rtf1\ansi\ansicpg1252\cocoartf1504
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 0,SansAnimation,,,,,,,,\
+0,SansHead,ClosedEyes,,,,,,,\
+0,SansText,ready to get rekt?,,,,,,,\
+0,BlackScreen,1,,,,,,,\
+0,Sound,Flash,,,,,,,\
+0.06666,BlackScreen,0,,,,,,,\
+0,Sound,Flash,,,,,,,\
+0,CombatZoneResizeInstant,239,226,404,391,,,,\
+0,HeartTeleport,320,304,,,,,,\
+0,HeartMode,0,,,,,,,\cf3 \outl0\strokewidth0 \
+\cf2 \outl0\strokewidth0 \strokec2 0,SansHead,NoEyes,,,,,,,\
+0.7,HeartMode,0,,,,,,,\
+0.2,SansBody,HandLeft,,,,,,,\
+0,SansSlam,2,,,,,,,\
+0.2,BoneStab,2,29,0.4,0,,,,,,,\
+0.9,SansBody,HandRight,,,,,,,\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 \outl0\strokewidth0 0,SansSlam,0,,,,,,,\cf2 \outl0\strokewidth0 \strokec2 \
+\cf3 \outl0\strokewidth0 0.2,BoneStab,0,29,0.4,0,,,,,,,\cf2 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 1,SansBody,HandRight,,,,,,,\
+0,Sound,Ding,,,,,,,\
+0.4,Sound,GasterBlaster,1.4,,,,,,\
+0.4,SineBones,20,-24,360,25,,,,\
+1.1,SansAnimation,,,,,,,,\
+0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666\
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666\
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666\
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666\
+0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666\
+0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666\
+0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666\
+0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666\
+0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666\
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666\
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666\
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666\
+0.9,GasterBlaster,2,0,240,139,306,0,0.666,0.5\
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5\
+2.4,SansText,rekt yet?,,,,,,,\
+0.2,HeartMode,4,,,,,,,\
+3,SansHead,Default,,,,,,,\
+0,SansText,well there's more.,,,,,,,\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 \outl0\strokewidth0 1,SansHead,NoEyes,,,,,,,\
+0.7,HeartMode,0,,,,,,,\
+0.2,SansBody,HandUp,,,,,,,\
+0,SansSlam,3,,,,,,,\
+0.2,BoneStab,3,40,0.4,0.6,,,,,,,\
+0,BoneStab,0,40,0.4,0.6,,,,,,,\
+0,BoneStab,2,40,0.4,0.6,,,,,,,\
+0,BoneStab,1,40,0.4,0.6,,,,,,,\
+0.9,SansBody,HandRight,,,,,,,\
+0.7,SansSlam,0,,,,,,,\
+0.2,BoneStab,0,29,0.4,0,,,,,,,\
+1,SansBody,HandRight,,,,,,,\
+0,Sound,Ding,,,,,,,\
+0.4,Sound,GasterBlaster,1.4,,,,,,\
+0.4,SineBones,20,-24,360,25,,,,\
+0.9,GasterBlaster,2,0,240,139,306,0,0.666,0.5\
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5\
+1.4,GasterBlaster,1,0,0,189,176,45,0.333,0.26666\
+0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666\
+0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666\
+0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666\
+1.7,SansBody,HandDown,,,,,,,\
+0,SansSlam,1,,,,,,,\
+0.5,SansHead,Defualt,,,,,,\
+1,CombatZoneResize,133,251,508,391,TLResume,,\
+0,HeartTeleport,320,376,,,,,\
+0,HeartMode,1,,,,,,\
+0,TLPause,,,,,,,\
+0,Platform,15,346,61,0,120,,\
+0.4,BoneVRepeat,133,356,356,0,120,41,15\
+1.2,Platform,-61,346,61,0,150,,\
+1.7,Platform,-61,346,61,0,180,,\
+1,BoneV,133,257,45,0,210,,\
+0,BoneV,119,257,45,0,210,,\
+0,BoneV,105,257,45,0,210,,\
+2.3,BoneV,133,257,95,0,270,,\
+0.9,SansText,Conglaturations ur not dad yet. lol.,,,,,,,\
+0,SansBody,Default,,,,,,,\
+0,SansHead,Default,,,,,,,\
+0.8,CombatZoneResize,133,251,508,391,TLResume,,,\
+0,HeartTeleport,320,376,,,,,,\
+0,HeartMode,1,,,,,,,\
+0,TLPause,,,,,,,,\
+0,PlatformRepeat,552,346,51,2,120,8,140,\
+0,PlatformRepeat,-20,306,51,0,120,8,160,\
+0,RND,Y,3,,,,,,\
+0,MUL,Y,$Y,40,,,,,\
+0,ADD,Y,$Y,285,,,,,\
+0,GasterBlaster,0,0,0,73,$Y,0,0.56666,0.1\
+0.7,RND,Y,3,,,,,,\
+0,MUL,Y,$Y,40,,,,,\
+0,ADD,Y,$Y,285,,,,,\
+0,GasterBlaster,0,640,0,563,$Y,180,0.56666,0.1\
+0.7,JMPNZ,8,$Loop,,,,,,\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf3 0,TLPause,,,,,,,,\
+0,PlatformRepeat,552,346,51,2,120,8,140,\
+0,PlatformRepeat,-20,306,51,0,120,8,160,\
+0,RND,Y,3,,,,,,\
+0,MUL,Y,$Y,40,,,,,\
+0,ADD,Y,$Y,285,,,,,\
+0,GasterBlaster,0,0,0,73,$Y,0,0.56666,0.1\
+0.7,RND,Y,3,,,,,,\
+0,MUL,Y,$Y,40,,,,,\
+0,ADD,Y,$Y,285,,,,,\
+0,GasterBlaster,0,640,0,563,$Y,180,0.56666,0.1\
+0.7,JMPNZ,8,$Loop,,,,,,\
+0,TLPause,,,,,,,,\
+0,PlatformRepeat,552,346,51,2,120,8,140,\
+0,PlatformRepeat,-20,306,51,0,120,8,160,\
+0,RND,Y,3,,,,,,\
+0,MUL,Y,$Y,40,,,,,\
+0,ADD,Y,$Y,285,,,,,\
+0,GasterBlaster,0,0,0,73,$Y,0,0.56666,0.1\
+0.7,RND,Y,3,,,,,,\
+0,MUL,Y,$Y,40,,,,,\
+0,ADD,Y,$Y,285,,,,,\
+0,GasterBlaster,0,640,0,563,$Y,180,0.56666,0.1\
+0.7,JMPNZ,8,$Loop,,,,,,\cf3 \
+0.7,SansText,BRO U AINT DED YET?!,,,,,,,\
+0.3,SansText,Hmm...,,,,,,,\
+1,SansBody,BlueEye,,,,,,,\
+\cf3 0.4,Sound,GasterBlaster,1.4,,,,,,\
+0.4,SineBones,20,-24,360,25,,,,\
+0.9,GasterBlaster,2,0,240,139,306,0,0.666,0.5\
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5\
+0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666\
+0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666\
+0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666\
+0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666\
+1,SansText,UGH. Well screw it. heres a break. but ill rek you next time!\
+0,SansBody,BlueEye\cf2 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 0,EndAttack,,,,,,,,\
+}
